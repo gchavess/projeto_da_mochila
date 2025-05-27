@@ -1,6 +1,6 @@
 # 📊 Relatório de Refatoração: Projeto da Mochila
 
-Alunos: Gustavo João Chaves, Christian Domingues e Michael Varaldo
+Alunos: Gustavo João Chaves, Cristian Domingues e Michael Varaldo
 
 ## ✅ Melhorias Realizadas
 
